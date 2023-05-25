@@ -72,3 +72,6 @@ To optimize the performance of the XGBoost Regressor, hyperparameter fine-tuning
     </tr>
   </tbody>
 </table>
+
+## Conclusion
+The Rossmann Store Sales Prediction project utilizes machine learning techniques to forecast sales for each store. By leveraging the XGBoost Regressor and conducting comprehensive data analysis, feature selection, and model comparison, it was possible to identify the most suitable model for the task. The insights gained from this project can aid in budget allocation for store renovations and contribute to more informed business decisions.
