@@ -243,3 +243,6 @@ Os resultados da clusterização mostraram que o cluster com a maior receita é 
     </tr>
   </tbody>
 </table>
+
+### Receita por cluster:
+<img src="https://github.com/julianichagas/portfolio/blob/main/Cluster%20Insiders/gross%20revenue.png">
